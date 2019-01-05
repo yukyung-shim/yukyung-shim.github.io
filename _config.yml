@@ -25,7 +25,7 @@ locale                   : "ko-KR" # 사이트의 언어 설정을 할 수있습
 
 title                    : "yk blog" # 블로그 제목
 title_separator          : "-" # 글 제목 - 블로그 제목  과 같이 사이트를 표시해줍니다.
-name                     : "yk_bella" # 사이트 소유자의 이름을 사용합니다.(Used to assign a site author.)
+name                     : "yukyung-shim" # 사이트 소유자의 이름을 사용합니다.(Used to assign a site author.)
 description              : "yk_기록" # 사이트에 대한 간단한 설명입니다.
 url                      : "https://yukyung-shim.github.io/"
 # 사이트의 주소를 입력합니다.
@@ -318,5 +318,5 @@ repo: yukyung-shim.github.io # Github repo name
 branch: master # 작업 브랜치를 설정
 relative_source: ../yukyung-shim.github.io/ # 저는 repo 이름으로 설정했습니다.
 destination: ../_posts # 빌드시 작업파일이 저장될 경로
-production_url:  https://yukyung-shim.github.io # 사이트 URL
+production_url:  https://yukyung-shim.github.io/ # 사이트 URL
 source_url:  https://github.com/yukyung-shim/yukyung-shim.github.io # Github 저장소 URL

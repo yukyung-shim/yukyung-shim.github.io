@@ -16,7 +16,7 @@ theme                  : "minimal-mistakes-jekyll"
 #remote_theme           : "mmistakes/minimal-mistakes"
 
 # 스킨을 설정하는 부분입니다.
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings

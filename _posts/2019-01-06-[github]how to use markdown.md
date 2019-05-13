@@ -109,7 +109,7 @@ Link : <https://www.google.com>
 - '*' : 보통, '**' : 굵게, '~~': 취소선, 'br tag 또는 띄어쓰기 두번' : 줄바꿈
 
 
-# 9. 영역에 내용 입력
+## 9. 영역에 내용 입력
 
 ``` markdown
   (``` markdown
